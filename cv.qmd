@@ -1,0 +1,140 @@
+---
+title: "Wouter van Amsterdam"
+subtitle: "Department of Data Science & Biostatistics, Julius Center, University Medical Center Utrecht"
+colorlinks: true
+urlcolor: DarkBlue
+format:
+    html: default
+    pdf:
+        toc: false
+        includes:
+            in_header: preamble.tex
+        geometry:
+           - left = 1.4cm
+           - right = 1.4cm
+           - top = 1.9cm
+           - bottom = 1.1cm
+        classoption: [a4paper,10pt]
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+cites<-scholar::get_publications("6PfM6UkAAAAJ")[c("cites","pubid", "title")]
+```
+
+||| <!-- headerless table for address-->
+|:--|--:|
+| [w.a.c.vanamsterdam-3@umcutrecht.nl](mailto:w.a.c.vanamsterdam-3@umcutrecht.nl)     |   [vanamsterdam.github.io](https://vanamsterdam.github.io) |
+
+#  Positions
+||| <!-- headerless table; the number of "-" in the next line specifies how wide the first and second column are-->
+|--|-----------------|
+|from 2023   | **University Medical Center Utrecht**, assistant professor |
+|2021 -- 2023| **Babylon Health, London**, senior research scientist |
+
+# Degrees
+||| <!-- headerless table; the number of "-" in the next line specifies how wide the first and second column are-->
+|--|-----------------|
+|2022| **Utrecht University**, PhD, *Causal Inference and Machine Learning for health*, co-advised by Rajesh Ranganath, New York University, partially conducted at NYU in 2019 |
+|2020| **University Medical Center Utrecht**, MSc. Epidemiology, medical statistics track, *cum laude* |
+|2017| **University Medical Center Utrecht**, MD (honours track, master thesis at Harvard Medical School) |
+|2014| **University Medical Center Utrecht**, BSc. in Medicine (honours track) |
+|2010| **Utrecht University**, BSc. in Physics and Astronomy|
+
+# Selected Publications
+
+Prognostic models for decision support need to report their targeted treatments and the expected changes in treatment decisions.\
+*van Amsterdam, W. A. C. and Cinà, Giovanni and Didelez, Vanessa and Keogh, Ruth H. and Peek, Niels and Sperrin, Matthew and Vickers, Andrew J. and van Geloven, Nan and Shalit, Uri (2024). BMJ Rapid-response*\
+
+From algorithms to action: improving patient care requires causality.\
+*van Amsterdam, W. A. C., de Jong, P. A., Verhoeff, J. J. C., Leiner, T., & Ranganath, R. (2024). BMC Medical Informatics and Decision Making*\
+<!--[10.1186/s12911-024-02513-3](10.1186/s12911-024-02513-3)-->
+
+Causal Inference in Oncology: Why, What, How and When.\
+*van Amsterdam W. A. C. , Elias S, Ranganath R. . Clinical Oncology. 2024 Jul 11;*\
+
+Individual treatment effect estimation in the presence of unobserved confounding using proxies: A cohort study in stage III non-small cell lung cancer.\ 
+*van Amsterdam, W. A. C., Verhoeff, J. J. C., Harlianto, N. I., Bartholomeus, G. A., Puli, A. M., de Jong, P. A., Leiner, T., van Lindert, A. S. R., Eijkemans, M. J. C., & Ranganath, R. (2022). Scientific Reports*\
+
+Conditional average treatment effect estimation with marginally constrained models.\
+*van Amsterdam, W. A. C., & Ranganath, R. (2023). Journal of Causal Inference*\
+
+Eliminating biasing signals in lung cancer images for prognosis predictions with deep learning.\
+*van Amsterdam, W. A. C., Verhoeff, J. J. C., de Jong, P. A., Leiner, T., & Eijkemans, M. J. C. (2019). Npj Digital Medicine*\
+
+The morphological substrate for Renal Denervation: Nerve distribution patterns and parasympathetic nerves. A post-mortem histological study.\
+*van Amsterdam W. A. C., Blankestijn P. J., Goldschmeding R., Bleys R. L. A. W.. Annals of Anatomy - Anatomischer Anzeiger 2016 Mar;204:71–9*
+
+# Pre-prints
+
+A causal viewpoint on prediction model performance under changes in case-mix: discrimination and calibration respond differently for prognosis and diagnosis predictions.\
+*van Amsterdam, W. A. C. (2024). arXiv:2409.01444*
+
+When accurate prediction models yield harmful self-fulfilling prophecies (arXiv:2312.01210).\
+*van Amsterdam, W. A. C., van Geloven, N., Krijthe, J. H., Ranganath, R., & Ciná, G. (2024). ML4H 2023 findings-track*\
+
+
+# Teaching
+
+## As lecturer
+
+<!--|-|---------|-->
+||| <!-- headerless table; the number of "-" in the next line specifies how wide the first and second column are-->
+|--|-----------------|
+| 2024 | **Introduction to Causal Inference and Causal Data Science summer school** |
+| 2023, 2024 | **2024 Big Data summer school** |
+
+
+# Awards & grants
+
+||| <!-- headerless table; the number of "-" in the next line specifies how wide the first and second column are-->
+|--|-----------------|
+| 2023          | HealthHolland TKI Public-Private partnership (principal investigator), €300,000 |
+| 2020          | Frits de Waard Penning, Epidemiology Master Utrecht, **For the best and most original epidemiological research by a student in medicine or bimedical/health sciences**, €500|
+| 2019          | Stichting Drie Lichten - Travel Grant, **Travel grant for visiting NYU during my PhD**, €5000|
+| 2019   | Stichting Girard De Mielet van Coehoorn - Travel Grant, **Travel grant for visiting NYU during my PhD**, €1250|
+| 2018  | ZonMW, Good use of medicine grant (Goed Gebruik Geneesmiddelen), co-applicant, €650,000 (95,000 for my PhD) | 
+| 2018	        | NVIDIA - GPU academic seeding program, **Graphics processing unit for deep learning experiments** (value = €12,000) |
+| 2017  | Alexandre Suerman Fellowship MD / PhD program, **PhD stipend and masterclass program** (value = €180,000) | 
+| 2016 | Bright Minds award of Utrecht University, **Pitch presenter at the *Dare to Cross-Over* event on *Diagnosing lung cancer with Radiomics* **, €500|
+| 2015 | BBMRI-NL research grant, **co-applicant for project `Systems Radiology'**, €20,000|
+
+# Professional activities and memberships
+
+## Selected presentations and invited seminars
+
+**2024**: *ESTRO (radiotherapy)* - **invited** seminar on causal inference; *AIBIA Utrect* - **invited** talk;
+**2023**: *University of Manchester* - **invited** on-site seminar; *CHIL conference* - lightning talk; *MLHC* - **invited** seminar in pre-conference workshop; *ML4H* - poster-presentation oral talk (missed due to canceled flight)
+**2022**: *Lorentz workshop Leiden* **invited** seminar
+**2021**: *MLHC* - poster presentation; *ESTRO* - poster presentation; *Dutch association of epidemiology yearly symposium* - **invited** seminar (canceled due to COVID lockdown)
+**2019**: *AAAI-Why symposium* - oral abstarct presentation
+**2018**: *Probus Service Club Utrecht - **invited** seminar
+
+## Affiliations and memberships
+
+- board member [BMS-ANed](https://www.vvsor.nl/biometrics/) (Dutch biometrics society, board member)
+- coordinator of UMC Utrecht [AI methods lab](https://www.umcutrecht.nl/en/ai-lab-methodology)
+- ambassador for [Applied Data Science](https://www.uu.nl/en/research/applied-data-science) of Utrecht University
+- co-coordinator of [Causal Data Science Special Interest Group](https://www.uu.nl/en/research/applied-data-science/sig-causal-data-science) of Utrecht University
+
+## Reviewing & Editing
+
+*2024* statistical editor, Journal of Cardiovascular Magnetic Imaging\
+*2024* guest editor, special issue on AI, Diagnostic and Prognostic Research
+
+Biostatistics; Machine Learning for Healthcare @NeuRIPS (2019, 2020, 2021, 2022); IEEE-access; Journal of Cardiovascular Magnetic Resonance; Netherlands Heart Journal; Oncologie; Journal of Thoracic Disease; Spurious correlations, Invariance and Stability workshop @ ICML 2022 (program committee); Translational Lung Cancer Research, Biometrika
+
+## Student Research Positions
+
+**2019** visiting PhD student at CILVR, New York University, with Rajesh Ranganath (4 months);
+**2016** master thesis at Harvard Medical School, with Hugo Aerts (4 months);
+**2016** master honours program at Radiology department of University Medical Center Utrecht (1.5 years);
+**2014** bachelor honours program at Anatomy deparmtnet of Unviersity Medical Center Utrecht (2.5 years);
+**2010** bachelor thesis at *Physics of Men*, Utrecht University (3 months);
+
+# Languages
+
+Dutch, Native; English & Speak fluently and write with high proficiency; German \& French & Basic proficiency\
+R programming language & Fluently; Python programming language & Fluently, experience in PyTorch, Jax, Pyro, NumPyro
+
+\vfill\hfill\tiny last updated: \today
