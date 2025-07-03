@@ -1,0 +1,31 @@
+# Quarto output files
+/_site/
+/.quarto/
+
+# R/renv files
+.Rproj.user/
+.Rhistory
+.RData
+.Ruserdata
+renv/library/
+renv/local/
+renv/cellar/
+renv/lock/
+renv/python/
+renv/staging/
+
+# Keep renv.lock and renv/activate.R for reproducibility
+!renv.lock
+!renv/activate.R
+!renv/settings.dcf
+
+# PDF and HTML outputs (optional - remove if you want to track these)
+*.pdf
+*.html
+
+# macOS
+.DS_Store
+
+# Temporary files
+*~
+*.tmp

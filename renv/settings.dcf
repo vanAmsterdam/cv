@@ -1,0 +1,4 @@
+auto.snapshot: TRUE
+snapshot.type: implicit
+use.cache: TRUE
+package.dependency.fields: Imports, Depends, LinkingTo
