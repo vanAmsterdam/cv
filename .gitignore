@@ -1,6 +1,7 @@
 # Quarto output files
 /_site/
 /.quarto/
+/cv_files/
 
 # R/renv files
 .Rproj.user/
