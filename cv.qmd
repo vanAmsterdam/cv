@@ -43,8 +43,14 @@ cites<-scholar::get_publications("6PfM6UkAAAAJ")[c("cites","pubid", "title")]
 
 # Selected Publications
 
+AI as an intervention: improving clinical outcomes relies on a causal approach to AI development and validation\
+*Shalmali Joshi, Inigo Urteaga, Wouter A. C. van Amsterdam et al. JAMIA 2025.*\
+[url](https://academic.oup.com/jamia/article/32/3/589/7945189?login=false)
+
 When accurate prediction models yield harmful self-fulfilling prophecies.\
-*van Amsterdam, W. A. C., van Geloven, N., Krijthe, J. H., Ranganath, R., & Ciná, G. (2025). Patterns, Accepted*\
+*van Amsterdam, W. A. C., van Geloven, N., Krijthe, J. H., Ranganath, R., & Ciná, G. Patterns. 2025 Apr;6(4):101229.*
+[url](https://doi.org/10.1016/j.patter.2025.101229)
+[pdf](papers/2025_selffulfilling.pdf)
 
 Prognostic models for decision support need to report their targeted treatments and the expected changes in treatment decisions.\
 *van Amsterdam, W. A. C. and Cinà, Giovanni and Didelez, Vanessa and Keogh, Ruth H. and Peek, Niels and Sperrin, Matthew and Vickers, Andrew J. and van Geloven, Nan and Shalit, Uri (2024). BMJ Rapid-response*\
@@ -81,7 +87,7 @@ A causal viewpoint on prediction model performance under changes in case-mix: di
 <!--|-|---------|-->
 ||| <!-- headerless table; the number of "-" in the next line specifies how wide the first and second column are-->
 |--|-----------------|
-| 2024 | **Introduction to Causal Inference and Causal Data Science summer school** |
+| 2024- | **Introduction to Causal Inference and Causal Data Science summer school** |
 | 2023, 2024 | **2024 Big Data summer school** |
 
 
@@ -103,7 +109,7 @@ A causal viewpoint on prediction model performance under changes in case-mix: di
 
 ## Selected presentations and invited seminars
 
-**2025**: *Dagstuhl seminar* - invited seminar participant and speaker;
+**2025**: *ISCB* - invited speaker in session 'Prediction modelling meets causal inference for clinical decision making'; *Dagstuhl seminar* - invited seminar participant and speaker;
 **2024**: *ESTRO (radiotherapy)* - **invited** seminar on causal inference; *AIBIA Utrecht* - **invited** talk;
 **2023**: *University of Manchester* - **invited** on-site seminar; *CHIL conference* - lightning talk; *MLHC* - **invited** seminar in pre-conference workshop; *ML4H* - poster-presentation oral talk (missed due to canceled flight)
 **2022**: *Lorentz workshop Leiden* **invited** seminar
