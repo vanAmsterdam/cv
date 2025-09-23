@@ -1,6 +1,6 @@
 ---
 title: "Wouter van Amsterdam, MD, PhD"
-subtitle: "Department of Data Science & Biostatistics,\\ Julius Center, University Medical Center Utrecht"
+subtitle: "Department of Data Science & Biostatistics, Julius Center, University Medical Center Utrecht"
 colorlinks: true
 urlcolor: DarkBlue
 format:
