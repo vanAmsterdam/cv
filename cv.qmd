@@ -42,48 +42,52 @@ cites<-scholar::get_publications("6PfM6UkAAAAJ")[c("cites", "pubid", "title")]
 |2010| **Utrecht University**, BSc. in Physics and Astronomy|
 
 # Selected Publications
+
+The Enemies of Reliable and Useful Clinical Prediction Models: A Review of Statistical and Scientific Challenges. Annual Review of Statistics and Its Application. 2025 Aug 28.\
+Van Calster B, Van Smeden M, **Van Amsterdam W.A.C.**, Coemans M, Wynants L, Steyerberg EW. 
+
 The Risks of Risk Assessment: Causal Blind Spots When Using Prediction Models for Treatment Decisions.\
 Van Geloven N, Keogh RH, **van Amsterdam W.A.C.**, Cinà G, Krijthe JH, Peek N, et al. Ann Intern Med. 2025 Sept;178(9):1326–33. 
 
 AI as an intervention: improving clinical outcomes relies on a causal approach to AI development and validation\
-Shalmali Joshi, Inigo Urteaga, **Wouter A. C. van Amsterdam** et al. JAMIA 2025.\
-[url](https://academic.oup.com/jamia/article/32/3/589/7945189?login=false)
+Shalmali Joshi, Inigo Urteaga, **van Amsterdam, W.A.C.** et al. JAMIA 2025.\
+<!-- [url](https://academic.oup.com/jamia/article/32/3/589/7945189?login=false) -->
 
 When accurate prediction models yield harmful self-fulfilling prophecies.\
 **van Amsterdam, W. A. C.**, van Geloven, N., Krijthe, J. H., Ranganath, R., & Ciná, G. Patterns. 2025 Apr;6(4):101229.
-[url](https://doi.org/10.1016/j.patter.2025.101229)
-[pdf](papers/2025_selffulfilling.pdf)
+<!-- [url](https://doi.org/10.1016/j.patter.2025.101229) -->
+<!-- [pdf](papers/2025_selffulfilling.pdf) -->
 
 Prognostic models for decision support need to report their targeted treatments and the expected changes in treatment decisions.\
-*van Amsterdam, W. A. C. and Cinà, Giovanni and Didelez, Vanessa and Keogh, Ruth H. and Peek, Niels and Sperrin, Matthew and Vickers, Andrew J. and van Geloven, Nan and Shalit, Uri (2024). BMJ Rapid-response*\
+**van Amsterdam, W. A. C.** and Cinà, Giovanni and Didelez, Vanessa and Keogh, Ruth H. and Peek, Niels and Sperrin, Matthew and Vickers, Andrew J. and van Geloven, Nan and Shalit, Uri (2024). BMJ Rapid-response\
 
 From algorithms to action: improving patient care requires causality.\
-*van Amsterdam, W. A. C., de Jong, P. A., Verhoeff, J. J. C., Leiner, T., & Ranganath, R. (2024). BMC Medical Informatics and Decision Making*\
+**van Amsterdam, W. A. C.**, de Jong, P. A., Verhoeff, J. J. C., Leiner, T., & Ranganath, R. (2024). BMC Medical Informatics and Decision Making\
 <!--[10.1186/s12911-024-02513-3](10.1186/s12911-024-02513-3)-->
 
 Causal Inference in Oncology: Why, What, How and When.\
-*van Amsterdam W. A. C. , Elias S, Ranganath R. . Clinical Oncology. 2024 Jul 11;*\
+**van Amsterdam W. A. C.** , Elias S, Ranganath R. Clinical Oncology. 2024 Jul 11;\
 
-Individual treatment effect estimation in the presence of unobserved confounding using proxies: A cohort study in stage III non-small cell lung cancer.\ 
-*van Amsterdam, W. A. C., Verhoeff, J. J. C., Harlianto, N. I., Bartholomeus, G. A., Puli, A. M., de Jong, P. A., Leiner, T., van Lindert, A. S. R., Eijkemans, M. J. C., & Ranganath, R. (2022). Scientific Reports*\
+Individual treatment effect estimation in the presence of unobserved confounding using proxies: A cohort study in stage III non-small cell lung cancer.\
+**van Amsterdam, W. A. C.**, Verhoeff, J. J. C., Harlianto, N. I., Bartholomeus, G. A., Puli, A. M., de Jong, P. A., Leiner, T., van Lindert, A. S. R., Eijkemans, M. J. C., & Ranganath, R. (2022). Scientific Reports\
 
 Conditional average treatment effect estimation with marginally constrained models.\
-*van Amsterdam, W. A. C., & Ranganath, R. (2023). Journal of Causal Inference*\
+**van Amsterdam, W. A. C.**, & Ranganath, R. (2023). Journal of Causal Inference\
 
 Eliminating biasing signals in lung cancer images for prognosis predictions with deep learning.\
-*van Amsterdam, W. A. C., Verhoeff, J. J. C., de Jong, P. A., Leiner, T., & Eijkemans, M. J. C. (2019). Npj Digital Medicine*\
+**van Amsterdam, W. A. C.**, Verhoeff, J. J. C., de Jong, P. A., Leiner, T., & Eijkemans, M. J. C. (2019). Npj Digital Medicine\
 
 The morphological substrate for Renal Denervation: Nerve distribution patterns and parasympathetic nerves. A post-mortem histological study.\
-*van Amsterdam W. A. C., Blankestijn P. J., Goldschmeding R., Bleys R. L. A. W.. Annals of Anatomy - Anatomischer Anzeiger 2016 Mar;204:71–9*
+**van Amsterdam W. A. C.**, Blankestijn P. J., Goldschmeding R., Bleys R. L. A. W.. Annals of Anatomy - Anatomischer Anzeiger 2016 Mar;204:71–9
 
 # Pre-prints
 
 ECG classification with convolutional neural networks demonstrates resilience to sex-imbalances in data.\
-Schipaanboord DJ, Van Der Zalm F, Van Es R, Vessies M, Van De Leur RR, Siegersma KR, ... **van Amsterdam WAC**. MedArXiv preprint\
-[url](https://doi.org/10.1101/2025.08.31.25334560)
+Schipaanboord DJ, Van Der Zalm F, Van Es R, Vessies M, Van De Leur RR, Siegersma KR, ... **van Amsterdam W.A.C.**. (2025) MedArXiv preprint
+<!-- [url](https://doi.org/10.1101/2025.08.31.25334560) -->
 
 A causal viewpoint on prediction model performance under changes in case-mix: discrimination and calibration respond differently for prognosis and diagnosis predictions.\
-*van Amsterdam, W. A. C. (2024). arXiv:2409.01444*
+**van Amsterdam, W. A. C.** (2024). arXiv:2409.01444
 
 # Teaching
 
