@@ -1,6 +1,6 @@
 ---
 title: "Wouter van Amsterdam, MD, PhD"
-subtitle: "Department of Data Science & Biostatistics, Julius Center, University Medical Center Utrecht"
+subtitle: "Assistant Professor; Department of Data Science & Biostatistics, Julius Center, University Medical Center Utrecht"
 colorlinks: true
 urlcolor: DarkBlue
 format:
@@ -23,8 +23,8 @@ cites<-scholar::get_publications("6PfM6UkAAAAJ")[c("cites", "pubid", "title")]
 ```
 
 ||| <!-- headerless table for address-->
-|:--|--:|
-| [w.a.c.vanamsterdam-3@umcutrecht.nl](mailto:w.a.c.vanamsterdam-3@umcutrecht.nl)     |   [vanamsterdam.github.io](https://vanamsterdam.github.io) |
+|:--|--|--:|
+| [w.a.c.vanamsterdam-3@umcutrecht.nl](mailto:w.a.c.vanamsterdam-3@umcutrecht.nl)   | [Google Scholar](https://scholar.google.com/citations?user=6PfM6UkAAAAJ&hl=en)  |   [wvanamsterdam.com](https://wvanamsterdam.com) |
 
 #  Positions
 ||| <!-- headerless table; the number of "-" in the next line specifies how wide the first and second column are-->
@@ -42,13 +42,15 @@ cites<-scholar::get_publications("6PfM6UkAAAAJ")[c("cites", "pubid", "title")]
 |2010| **Utrecht University**, BSc. in Physics and Astronomy|
 
 # Selected Publications
+The Risks of Risk Assessment: Causal Blind Spots When Using Prediction Models for Treatment Decisions.\
+Van Geloven N, Keogh RH, **van Amsterdam W.A.C.**, Cinà G, Krijthe JH, Peek N, et al. Ann Intern Med. 2025 Sept;178(9):1326–33. 
 
 AI as an intervention: improving clinical outcomes relies on a causal approach to AI development and validation\
-*Shalmali Joshi, Inigo Urteaga, Wouter A. C. van Amsterdam et al. JAMIA 2025.*\
+Shalmali Joshi, Inigo Urteaga, **Wouter A. C. van Amsterdam** et al. JAMIA 2025.\
 [url](https://academic.oup.com/jamia/article/32/3/589/7945189?login=false)
 
 When accurate prediction models yield harmful self-fulfilling prophecies.\
-*van Amsterdam, W. A. C., van Geloven, N., Krijthe, J. H., Ranganath, R., & Ciná, G. Patterns. 2025 Apr;6(4):101229.*
+**van Amsterdam, W. A. C.**, van Geloven, N., Krijthe, J. H., Ranganath, R., & Ciná, G. Patterns. 2025 Apr;6(4):101229.
 [url](https://doi.org/10.1016/j.patter.2025.101229)
 [pdf](papers/2025_selffulfilling.pdf)
 
@@ -76,23 +78,37 @@ The morphological substrate for Renal Denervation: Nerve distribution patterns a
 
 # Pre-prints
 
+ECG classification with convolutional neural networks demonstrates resilience to sex-imbalances in data.\
+Schipaanboord DJ, Van Der Zalm F, Van Es R, Vessies M, Van De Leur RR, Siegersma KR, ... **van Amsterdam WAC**. MedArXiv preprint\
+[url](https://doi.org/10.1101/2025.08.31.25334560)
+
 A causal viewpoint on prediction model performance under changes in case-mix: discrimination and calibration respond differently for prognosis and diagnosis predictions.\
 *van Amsterdam, W. A. C. (2024). arXiv:2409.01444*
 
 # Teaching
+
+## As Advisor (2022-onwards)
+
+- 2025-: PhD Student (SciML4Medicine), copromotor, PI
+- 2025-: PhD Student (Causal Inference in Radiotherapy), copromotor (remote supervision, INT Milan)
+- 2025-: PhD Student (Prediction Paradox in Clinical Prediction Models), copromotor
+- 2025-: MBA Student (AI), thesis advisor
+- 5+ MSc. students (Data Science, Epidemiology, Medicine)
 
 ## As lecturer
 
 <!--|-|---------|-->
 ||| <!-- headerless table; the number of "-" in the next line specifies how wide the first and second column are-->
 |--|-----------------|
-| 2024- | **Introduction to Causal Inference and Causal Data Science summer school** |
+| 2026-  | Foundations of Statistics and Data Science, Machine Learning & Application in Medicine (Epidemiology and Health Data Science MSc.)
+| 2024- | **Introduction to Causal Inference and Causal Data Science summer school** (yearly)|
 | 2023, 2024 | **2024 Big Data summer school** |
 
 # Awards & grants
 
 ||| <!-- headerless table; the number of "-" in the next line specifies how wide the first and second column are-->
 |--|-----------------|
+| 2025         | Applied Data Science, Utrecht University, Boost Grant (5,000eu) for DagMiner: extracting DAGs from published research |
 | 2023          | HealthHolland TKI Public-Private partnership (principal investigator), €300,000 |
 | 2020          | Frits de Waard Penning, Epidemiology Master Utrecht, **For the best and most original epidemiological research by a student in medicine or bimedical/health sciences**, €500|
 | 2019          | Stichting Drie Lichten - Travel Grant, **Travel grant for visiting NYU during my PhD**, €5000|
@@ -139,6 +155,11 @@ Biostatistics; Machine Learning for Healthcare @NeuRIPS (2019, 2020, 2021, 2022)
 **2016** master honours program at Radiology department of University Medical Center Utrecht (1.5 years);
 **2014** bachelor honours program at Anatomy deparmtnet of Unviersity Medical Center Utrecht (2.5 years);
 **2010** bachelor thesis at *Physics of Men*, Utrecht University (3 months);
+
+## In the News
+
+- Our work on harmful-selfulfilling prophecies got covered in [The Independent](https://www.independent.co.uk/news/health/ai-healthcare-patients-nhs-b2732070.html), [Pharmophorum](https://pharmaphorum.com/news/why-relying-ai-outcome-models-may-not-be-good-idea), and 6 independent experts at an [SMC-roundup](https://www.sciencemediacentre.org/expert-reaction-to-study-suggesting-potential-patient-harms-associated-with-use-of-ai-medical-outcome-prediction-models/)
+- I gave an interview for BiotechNEWs on my vision for the future of AI in healthcare [pdf](resources/24_biotechnews_interview.pdf) 
 
 # Languages
 
